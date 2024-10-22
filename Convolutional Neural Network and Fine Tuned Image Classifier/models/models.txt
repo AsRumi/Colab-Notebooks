@@ -1,2 +1,5 @@
 Follow my Google Drive link to access all my trained models:
 https://drive.google.com/file/d/19Knq0cLKDoa56eam7qQNaqQo3_70uuFq/view?usp=sharing
+
+Link to model with frozen weights ready for finetuning:
+https://drive.google.com/file/d/1ScqdUdmDKDHvkDx-FTKwbk_L2GFCxpp_/view?usp=sharing
